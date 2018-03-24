@@ -182,5 +182,5 @@ def main():
     setup()
     drawTime()
  
-if __name__ == “__main__”:
+if __name__ == "__main__":
     main()
